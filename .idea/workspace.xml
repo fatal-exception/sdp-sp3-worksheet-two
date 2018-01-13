@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2f4f163-e775-4907-bac0-f4a62a0ca2f6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/exercise-two/src/Reflect.kt" afterPath="$PROJECT_DIR$/exercise-two/src/Reflect.kt" />
-    </list>
+    <list default="true" id="c2f4f163-e775-4907-bac0-f4a62a0ca2f6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Reflect.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Reflect.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercise-two/src/Reflect.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="314">
@@ -29,6 +27,26 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="145">
               <caret line="2099" column="26" lean-forward="false" selection-start-line="2099" selection-start-column="26" selection-end-line="2099" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reflect.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise-three/src/Reflect.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reflect.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise-four/src/Reflect.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -69,7 +87,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -158,6 +176,17 @@
             <path>
               <item name="worksheet-two-reflection-mralph02" type="b2602c69:ProjectViewProjectNode" />
               <item name="worksheet-two-reflection-mralph02" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise-four" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="worksheet-two-reflection-mralph02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="worksheet-two-reflection-mralph02" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise-four" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="worksheet-two-reflection-mralph02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="worksheet-two-reflection-mralph02" type="462c0819:PsiDirectoryNode" />
               <item name="exercise-one" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -172,6 +201,17 @@
               <item name="exercise-one" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Reflect.kt" type="24436e51:KtFileTreeNode" />
+            </path>
+            <path>
+              <item name="worksheet-two-reflection-mralph02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="worksheet-two-reflection-mralph02" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise-three" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="worksheet-two-reflection-mralph02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="worksheet-two-reflection-mralph02" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise-three" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="worksheet-two-reflection-mralph02" type="b2602c69:ProjectViewProjectNode" />
@@ -401,12 +441,12 @@
       <updated>1515362432287</updated>
       <workItem from="1515362437179" duration="2291000" />
       <workItem from="1515401353880" duration="2948000" />
-      <workItem from="1515837549227" duration="2915000" />
+      <workItem from="1515837549227" duration="2947000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8154000" />
+    <option name="totallyTimeSpent" value="8186000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1206" height="777" extended-state="6" />
@@ -512,22 +552,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exercise-one/src/Reflection.kt" />
     <entry file="file://$PROJECT_DIR$/exercise-one/src/Reflection.java" />
-    <entry file="file://$PROJECT_DIR$/exercise-three/src/Reflect.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercise-four/src/Reflect.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercise-one/src/JMan.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -573,17 +597,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-108">
-            <caret line="17" column="49" lean-forward="false" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercise-two/src/Party.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -597,6 +610,33 @@
         <state relative-caret-position="314">
           <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-three/src/Reflect.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-four/src/Reflect.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-108">
+            <caret line="17" column="49" lean-forward="false" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
